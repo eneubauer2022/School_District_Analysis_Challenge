@@ -38,7 +38,7 @@ Adjusted:
 ![this is an image](https://github.com/eneubauer2022/School_District_Analysis/blob/main/Resources/School_type_adjusted.png)
 
 ## Size of the School
-The only noticeable difference on the bins for the size of the schools, was a very small decrease in the % Passing for Reading. It dropped from 96.8 to 96.7. This again would not effect the overall number when rounding so does not have a noticeable difference on the results.
+The only noticeable difference on the bins for the size of the schools, was a very small decrease in the % Passing for Reading. It dropped from 96.8% to 96.7%. This again would not effect the overall number when rounding so does not have a noticeable difference on the results.
 
 Original:
 
